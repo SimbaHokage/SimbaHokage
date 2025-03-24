@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **GymApp**
 
-- 🌱 I’m currently learning **Spring, Websockets**
+- 🌱 I’m currently learning **React, FastAPI**
 
 - 💬 Ask me about **Java**
 
